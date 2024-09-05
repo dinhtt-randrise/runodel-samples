@@ -1,4 +1,4 @@
 {
-  "text": "Hey how are you doing today?",
+  "text": "Write a short story about a fox.",
   "model": "huggingface:meta-llama/Meta-Llama-3.1-8B"
 }
